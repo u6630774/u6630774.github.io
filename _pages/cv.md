@@ -7,39 +7,50 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Economics, [Duke University](https://www.duke.edu/), 2023–2024 (expected)
+  * Honors: Duke Economics Master’s Scholar Award
+  * GPA: 3.728/4.0
+* B.Econ / B.Statistics, [Australian National University](https://www.anu.edu.au/), 2018–2022
+  * Major: Statistical Data Analytics
+  * GPA: 6.63/7.0 (WES Verified: 4.0/4.0)
+  * Average Mark: 82 (High Distinction)
+* Time Series & Random Processes in Linear Systems, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Winter 2019
+  * Score: 99/100
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant
+  * Duke University
+  * Duties included: Analyzing China's S&T cooperation agreements; preparing comprehensive weekly reviews
+  * Supervisor: [Prof. Denis Simon](https://scholars.duke.edu/person/denis.simon)
+* Spring 2024: Research Assistant
+  * University of Kansas
+  * Duties included: Investigating AI models (XGBoost, LSTM, Transformer) for asset pricing
+  * Supervisor: [Dr. Zongwu Cai](https://people.ku.edu/~zongwu/)
+* Summer 2022: Research Assistant
+  * Bank of China Research Institute
+  * Duties included: Macroeconomic policy analysis, commodity market forecasting
+  * Supervisor: Macroeconomy and Policy Group
+* Summer 2021: Research Assistant
+  * State Information Center-Department of Economic Forecasting
+  * Duties included: Analyzing manufacturing layouts; contributing to policy research papers
+  * Supervisor: Dr. Jiaqi Wei
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Expert: R, Python
+  * Intermediate: STATA, SQL, Excel
+  * Basic: JMP
+* Economics and Statistics:
+  * Econometric Modeling
+  * Bayesian Analysis
+  * Panel Data Analysis
+* Languages:
+  * Chinese (native)
+  * English (fluent)
 
 Publications
 ======
@@ -47,12 +58,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Digital Economy and Economic Growth
+  * Developed extended Solow growth model; conducted econometric analysis on 141-country panel dataset (2010–2022)
+  * Received A+ for theoretical innovation and empirical rigor
+* Machine Learning Applications in Macro Forecasting
+  * Analyzed macroeconomic datasets using LSTM, Bayesian VAR, Random Forest
+  * Demonstrated superior performance of LSTM during structural breaks
+* Exchange Rate Dynamics Analysis: RMB Historical Patterns
+  * Investigated RMB/USD elasticity; published findings in Macro Policy Trends
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -61,4 +77,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-authored multiple policy papers on macroeconomics and industrial transformation
+* Contributed to key economic reports for the Bank of China and State Information Center
+* Published independent research on RMB exchange rate reform and digital economy growth
