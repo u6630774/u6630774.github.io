@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Yurou.png"
   name             : "Yurou Gao"
   pronouns         : # example: "she/her"  
   bio              : "I'm a graduate student from [Duke University](https://www.duke.edu/), pursuing a Master of Arts in Economics (Expected: Dec 2024)"
