@@ -10,8 +10,8 @@ main:
   - title: "Working Project"
     url: /Working/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
