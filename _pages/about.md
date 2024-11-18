@@ -13,7 +13,7 @@ My research interests include economic modeling, machine learning in asset prici
 I am very fortunate to be advised by [Prof. Denis Simon](https://scholars.duke.edu/person/denis.simon) at Duke University. 
 Previously, I was advised by [Dr. Zongwu Cai](https://people.ku.edu/~zongwu/) at the University of Kansas.
 
-You can find my CV here: [Yurou Gao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yurou Gao's Curriculum Vitae](../assets/CV_Yurou_Gao.pdf).
 
 [Email](mailto:yurou.gao@duke.edu) / [Github](https://github.com/YourUsername) / [LinkedIn](https://www.linkedin.com/in/yurou-gao)
 
