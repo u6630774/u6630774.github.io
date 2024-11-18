@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yurou Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I'm a graduate student from [Duke University](https://www.duke.edu/), pursuing a Master of Arts in Economics (Expected: Dec 2024)"
+  location         : "North Carolina"
+  employer         : "Duke University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yg230@duke.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
