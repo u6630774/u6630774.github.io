@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* M.A. in Economics, [Duke University](https://www.duke.edu/), 2023–2024 (expected)
+* M.A. in Economics, [Duke University](https://www.duke.edu/), 2023–2024 
   * Honors: Duke Economics Master’s Scholar Award
   * GPA: 3.827/4.0
 * B.Econ / B.Statistics, [Australian National University](https://www.anu.edu.au/), 2018–2022
