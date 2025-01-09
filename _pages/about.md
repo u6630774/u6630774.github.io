@@ -14,7 +14,7 @@ My research interests include digtal economic, economic modeling, econometrics, 
 I am very fortunate to be advised by [Prof. Denis Simon](https://scholars.duke.edu/person/denis.simon) at Duke University. 
 Previously, I was advised by [Dr. Zongwu Cai](https://people.ku.edu/~zongwu/) at the University of Kansas.
 
-You can find my CV here: [Yurou Gao's Curriculum Vitae](../assets/CV_Yurou_Gao.pdf).
+You can find my CV here: [Yurou Gao's Curriculum Vitae](../assets/Yurou_Gao_CV.pdf).
 
 [Email](mailto:yurou.gao@duke.edu) / [Github](https://github.com/YourUsername) / [LinkedIn](https://www.linkedin.com/in/yurou-gao)
 
