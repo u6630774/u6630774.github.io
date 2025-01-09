@@ -54,9 +54,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Research Projects
 ======
@@ -69,11 +67,6 @@ Research Projects
 * Exchange Rate Dynamics Analysis: RMB Historical Patterns
   * Investigated RMB/USD elasticity; published findings in Macro Policy Trends
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
