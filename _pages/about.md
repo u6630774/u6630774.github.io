@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [Duke University](https://www.duke.edu/), graduated as a Master of Arts in Economics in December 2024 with GPA of 3.827/4. Before that, I get my Bachelor degree with statistic and economic in Austrilia National University with GPA of 4/4.
+I'm a graduate student from [Duke University](https://www.duke.edu/), graduated as a Master of Arts in Economics in December 2024. Before that, I get my Bachelor degree with statistic and economic in Austrilia National University in July 2022.
 
 My research interests include digtal economic, economic modeling, econometrics, development economics.
 
