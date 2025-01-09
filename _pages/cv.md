@@ -28,7 +28,7 @@ Work experience
 * Spring 2024: Research Assistant
   * University of Kansas
   * Duties included: Investigating AI models (XGBoost, LSTM, Transformer) for asset pricing
-  * Supervisor: [Dr. Zongwu Cai](https://people.ku.edu/~zongwu/)
+  * Supervisor: [Prof. Zongwu Cai](https://people.ku.edu/~zongwu/)
 * Summer 2022: Research Assistant
   * Bank of China Research Institute
   * Duties included: Macroeconomic policy analysis, commodity market forecasting
