@@ -2,7 +2,7 @@
 Title: Science and Technology Cooperation Studies
 Collection: research_assistant_experiences
 Category: science_technology
-Permalink: /research/2024-09-01-science-technology-cooperation
+Permalink: /_publications/2024-09-01-science-technology-cooperation
 Excerpt: 'Conducted qualitative analysis of China's international S&T cooperation and developed a comprehensive evaluation framework based on historical and contextual factors.'
 Date: 2024-09-01
 Venue: 'Duke University, Led by Prof. Denis Simon'
